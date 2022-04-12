@@ -11,4 +11,4 @@ I followed the methodology used by https://nbviewer.org/url/ignite.byu.edu/che54
 
 Thanks!
 
-- Eunsuh, Kim, 2022-04-12, Pohang, Korea.
+Eunsuh, Kim, 2022-04-12, Pohang, Korea.
