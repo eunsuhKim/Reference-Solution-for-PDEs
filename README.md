@@ -14,3 +14,6 @@ If you use my code to obtain your PDE solution, you can assume the solution is o
 Thanks!
 
 Eunsuh, Kim, 2022-04-12, Pohang, Korea.
+
+KdV Equation solver does not work properly:( I will fix it.
+Eunsuh, Kim, 2022-05-20, Pohang, Korea.
